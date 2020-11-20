@@ -1,6 +1,6 @@
 # nmarket
 
-A new e-commerce application.
+A new e-commerce application in flutter.
 
 ## Getting Started
 
